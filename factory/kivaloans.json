@@ -1,0 +1,9 @@
+{
+	"name": "kivaloans",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ae93ccd-918b-4e26-9934-71147d05638c",
+		"tenantId": "cf076e71-f5d7-4947-a3db-dbf51724b969"
+	}
+}
