@@ -27,7 +27,8 @@
 						"parameters": {
 							"TableName": "dummy"
 						}
-					}
+					},
+					"firstRowOnly": false
 				}
 			},
 			{
