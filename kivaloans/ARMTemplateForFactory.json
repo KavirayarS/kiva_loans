@@ -57,7 +57,7 @@
 						"typeProperties": {
 							"source": {
 								"type": "SqlServerSource",
-								"sqlReaderQuery": "select as TableName from sys.tables\nwhere schema_id=SCHEMA_ID('dbo')",
+								"sqlReaderQuery": "select name as TableName from sys.tables\nwhere schema_id=SCHEMA_ID('dbo')",
 								"queryTimeout": "02:00:00",
 								"partitionOption": "None"
 							},
